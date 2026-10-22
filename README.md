@@ -57,7 +57,6 @@ The system assigns risk scores based on the following conditions:
 | 30–59 | Medium Risk |
 | 60 and above | High Risk |
 
-**Note:** These are predefined, rule-based risk indicators for project demonstration. The results flag potentially suspicious transactions and do not independently confirm actual fraud.
 
 ## 📊 Analytics and Reports
 
@@ -131,7 +130,7 @@ python atm_fraud_detection.py
 
 ## 💻 Source Code
 
-[View Python Source Code](PASTE_YOUR_GITHUB_SOURCE_CODE_LINK_HERE)
+[View Python Source Code](https://github.com/Reeshurajesh/ATM-Transaction-Fraud-Detection-Analytics-System/blob/f2fb6257383c747b6d9cec73e8e8c561c508a7cf/ATM%20Transaction%20Fraud%20Detection%20%26%20Analytics%20System.py)
 
 ## 📸 Output Screenshots
 
