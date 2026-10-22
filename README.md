@@ -147,7 +147,7 @@ When retrieving data from MySQL using Pandas `read_sql()`, a UserWarning may app
 <!-- https://github.com/Reeshurajesh/ATM-Transaction-Fraud-Detection-Analytics-System/blob/3a299ab744399243e864943d9fd61c8ea65f84d5/Screenshot%20(80).png -->
 
 ### 4. High-Risk Transactions  2
-<!-- Add high-risk transactions screenshot here -->
+<!-- https://github.com/Reeshurajesh/ATM-Transaction-Fraud-Detection-Analytics-System/blob/7454f8dc00d38ef3b6f5bf65148532a33b15bb35/Screenshot%20(81).png-->
 
 
 ## 🚀 Future Enhancements
