@@ -138,10 +138,19 @@ python atm_fraud_detection.py
 When retrieving data from MySQL using Pandas `read_sql()`, a UserWarning may appear because the application uses a MySQL Connector connection instead of SQLAlchemy. This is a compatibility warning, not necessarily an error, and the application can continue if the query executes successfully.
 
 
-## 📸 Output Screenshots
+## 📸 Application Output Screenshots
 
-## Warning Screenshot Link.(https://github.com/Reeshurajesh/ATM-Transaction-Fraud-Detection-Analytics-System/blob/7e03ab8511f022ab7b1af4a20a38d258d7a62fbd/Screenshot%20(79).png)
+### 1. Warning screenshot 
+<!-- https://github.com/Reeshurajesh/ATM-Transaction-Fraud-Detection-Analytics-System/blob/7e03ab8511f022ab7b1af4a20a38d258d7a62fbd/Screenshot%20(79).png -->
 
+### 3. Transaction Screenshot 1
+<!-- Add suspicious transactions screenshot here -->
+
+### 4. High-Risk Transactions  2
+<!-- Add high-risk transactions screenshot here -->
+
+
+## 🚀 Future Enhancements
 - Integrate machine learning models for fraud prediction.
 - Add interactive charts and data visualizations.
 - Export analytical reports to CSV or Excel.
