@@ -140,11 +140,7 @@ When retrieving data from MySQL using Pandas `read_sql()`, a UserWarning may app
 
 ## 📸 Output Screenshots
 
-Project output screenshots will be added here.
-
-<!-- Add your uploaded screenshot links below after uploading them to GitHub. -->
-
-## 🚀 Future Enhancements
+## Warning Screenshot Link.(https://github.com/Reeshurajesh/ATM-Transaction-Fraud-Detection-Analytics-System/blob/7e03ab8511f022ab7b1af4a20a38d258d7a62fbd/Screenshot%20(79).png)
 
 - Integrate machine learning models for fraud prediction.
 - Add interactive charts and data visualizations.
